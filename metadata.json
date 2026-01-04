@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise Lead Management System",
+  "description": "A production-grade CRM for counselors and admins built on Google Apps Script with a React frontend, featuring real-time KPIs, lead tracking, and automated follow-ups.",
+  "requestFramePermissions": []
+}
