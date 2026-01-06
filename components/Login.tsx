@@ -33,8 +33,8 @@ const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
       <div className="w-full max-w-md space-y-8 bg-white p-10 rounded-3xl shadow-2xl">
         <div className="text-center">
           <div className="mx-auto h-12 w-12 bg-indigo-600 rounded-2xl flex items-center justify-center text-white font-bold text-2xl shadow-xl shadow-indigo-500/30">L</div>
-          <h2 className="mt-6 text-3xl font-extrabold text-slate-900 tracking-tight">LeadFlow CRM</h2>
-          <p className="mt-2 text-sm text-slate-500 font-medium">Enterprise Lead Management Solution</p>
+          <h2 className="mt-6 text-3xl font-extrabold text-slate-900 tracking-tight">Locanova CRM</h2>
+          <p className="mt-2 text-sm text-slate-500 font-medium">Locanova Enterprise Lead Management Solution</p>
         </div>
         
         <form className="mt-8 space-y-6" onSubmit={handleLogin}>
@@ -74,7 +74,7 @@ const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
           </button>
         </form>
         
-        <p className="text-center text-[10px] text-slate-400 uppercase tracking-widest mt-10">Protected by LeadFlow Enterprise Security</p>
+        <p className="text-center text-[10px] text-slate-400 uppercase tracking-widest mt-10">Protected by Locanova Enterprise Security</p>
       </div>
     </div>
   );

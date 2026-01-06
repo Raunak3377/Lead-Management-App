@@ -25,7 +25,7 @@ const Sidebar: React.FC<SidebarProps> = ({ activeTab, setActiveTab, user, onLogo
     <div className="w-64 h-full bg-slate-900 text-white flex flex-col p-4">
       <div className="mb-10 px-2 flex items-center gap-2">
         <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center font-bold text-lg">L</div>
-        <span className="text-xl font-bold tracking-tight">LeadFlow <span className="text-indigo-400">CRM</span></span>
+        <span className="text-xl font-bold tracking-tight">Locanova <span className="text-indigo-400">CRM</span></span>
       </div>
 
       <nav className="flex-1 space-y-1">
